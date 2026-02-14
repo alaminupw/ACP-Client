@@ -1,0 +1,12 @@
+.linkitem{
+    border-bottom: 2px dotted #ccc;
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+    display: block;
+    font-size: 17px;
+}
+
+.footerbg{
+    background-color: #F6F6F6;
+}

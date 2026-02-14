@@ -1,0 +1,13 @@
+.sub-list{
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+
+.headline{
+    display: block;
+    margin: 10px 0 25px 0;
+    border-bottom-style: dashed;
+    border-bottom-width: 0.0625rem;
+    color: black;
+}

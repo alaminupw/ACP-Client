@@ -1,0 +1,45 @@
+.top img{
+    width: 100%;
+    display: block;
+}
+
+.top{
+    position: relative;
+    background-image:url("../../Images/top1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+    background-position: center;
+    min-height: 700px;
+    padding: 100px 20px; /* top-bottom, left-right padding */
+    color: black;
+}
+ .top::after{
+    position: absolute;
+    content: '';
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(255, 234, 234,.2);                              /* background-color: rgba(0,0,0,.4);*/
+    z-index: 1;   /* ✅ overlay */
+ }
+
+ .top-content h3,p{
+    color: black;
+ }
+
+  .top-content h1{
+    color: orange;
+    font-weight: bold;
+ }
+
+
+ .topbar1{
+margin-top: 120px;
+ }
+
+  .topbar1 h5{
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    color: darkorange;
+ }

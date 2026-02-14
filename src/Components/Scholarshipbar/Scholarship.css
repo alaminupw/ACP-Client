@@ -1,0 +1,74 @@
+* {
+    border-radius: 0;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.Scholar-headline{
+    display: block;
+    margin: 10px 0 25px 0;
+    border-bottom-style: dashed;
+    border-bottom-width: 0.0625rem;
+    color: black;
+}
+
+
+.div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+html, body {
+    font-family: Verdana, sans-serif;
+    color: #333;
+    font-size: 13px;
+    line-height: 1.6;
+}
+body {
+    background-color: #fff;
+}
+
+
+.Scholar-deptName{
+   margin-left: 0px; 
+};
+
+
+.subject-list{
+    text-decoration: none;
+}
+
+
+.subject-item {
+  display: block;
+  width: 100%;
+  padding: 4px 0px 0px 0px;
+  border-bottom: 2px dotted #ccc;
+  color:#566573 ;
+  text-decoration: none;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 2.2;
+}
+
+.view{
+    padding-left:20px;
+    padding-right: 20px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.dept-span{
+    margin-left: 10px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.amar-scholar{
+    text-decoration: none;
+    color: #333;
+}

@@ -1,0 +1,46 @@
+.Contuct-Us{
+    background-color: #FAF7F3;
+}
+.contact-all{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding:20px 0px 20px 0px;
+}
+.form-full{
+    background-color: #5E936C;
+    width: 50%;
+    border-radius: 5px;
+    box-sizing:border-box;
+    margin:30px 0px 35px 0;
+}
+form{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+label{
+    display: block;
+    overflow: hidden;
+    margin: 10px 0;
+    font-size: 15px;
+}
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+.contuct-send{
+    text-align: center;
+}
+.send-message{
+    width: 35%;
+    margin: 10px 0px 10px 0px;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(to right, rgb(62, 95, 68), rgb(250, 164, 189));
+}
