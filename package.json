@@ -2,6 +2,8 @@
   "name": "acp",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "24.x"},
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -26,10 +28,7 @@
       "react-app/jest"
     ]
   },
-  "engines": {
-  "node": "24.x"
-},
-
+  
   "browserslist": {
     "production": [
       ">0.2%",
