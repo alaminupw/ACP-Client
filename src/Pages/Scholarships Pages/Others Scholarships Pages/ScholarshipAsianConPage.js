@@ -14,7 +14,6 @@ const ScholarshipAsianConPage = () => {
             <Helmet>
                 <title>Others Scholarship-Asian Continent</title>
             </Helmet>
-            <Navbar/>
             <Searchbar/>
             <ScholarAsianCon/>
             <Footer/>
