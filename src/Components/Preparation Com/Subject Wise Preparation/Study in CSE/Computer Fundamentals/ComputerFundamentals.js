@@ -1,5 +1,6 @@
 import React from 'react';
 import './ComputerFundamentals.css';
+import { Link } from "react-router-dom";
 
 const ComputerFundamentalscom = () => {
     return (
@@ -11,16 +12,16 @@ const ComputerFundamentalscom = () => {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -29,16 +30,16 @@ const ComputerFundamentalscom = () => {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -48,16 +49,16 @@ const ComputerFundamentalscom = () => {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg"> Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -67,16 +68,16 @@ const ComputerFundamentalscom = () => {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -85,16 +86,16 @@ const ComputerFundamentalscom = () => {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals -1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -103,16 +104,16 @@ const ComputerFundamentalscom = () => {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals-1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Computer Fundamentals-1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

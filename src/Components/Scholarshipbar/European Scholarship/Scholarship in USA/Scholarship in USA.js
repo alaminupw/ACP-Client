@@ -13,6 +13,8 @@ import s10 from '../../../../Images/s10.png';
 import s11 from '../../../../Images/s11.png';
 import s12 from '../../../../Images/s12.png';
 
+import { Link } from "react-router-dom";
+
 
 const ScholarshipUSA = () => {
     return (
@@ -22,80 +24,80 @@ const ScholarshipUSA = () => {
             </div>
                 <div className="row mt-5">
                     <div className="col blogImage">
-                        <a href="/">
+                        <Link to="/">
                             <img src={s1} alt=""></img>
-                        </a>
+                        </Link>
                         <p className="text-center pt-3 fs-5 fw-bold">Yale University Scholarships USA-2025</p>
                             
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s2} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Fulbright Scholarships USA-2025</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s3} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Stanford University Scholarships-2025</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s4} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">The Gates Scholarship Program 2025 For High School Seniors</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s5} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Knight Hennessy Scholarship 2025-2026</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="">
+                            <Link to="">
                                 <img src={s6} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Simmons University Kotzen Scholarships 2025-2026</p>
                     </div>
                 </div>
                 {/* 2nd row start */}
                                 <div className="row mt-5">
                     <div className="col blogImage">
-                        <a href="/">
+                        <Link to="/">
                             <img src={s7} alt=""></img>
-                        </a>
+                        </Link>
                         <p className="text-center pt-3 fs-5 fw-bold">Yale University Scholarships USA-2025</p>
                             
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s8} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Fulbright Scholarships USA-2025</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s9} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Stanford University Scholarships-2025</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s10} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">The Gates Scholarship Program 2025 For High School Seniors</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s11} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Knight Hennessy Scholarship 2025-2026</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="">
+                            <Link to="">
                                 <img src={s12} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Simmons University Kotzen Scholarships 2025-2026</p>
                     </div>
                 </div>
@@ -103,40 +105,40 @@ const ScholarshipUSA = () => {
 
                                 <div className="row mt-5">
                     <div className="col blogImage">
-                        <a href="/">
+                        <Link to="/">
                             <img src={s1} alt=""></img>
-                        </a>
+                        </Link>
                         <p className="text-center pt-3 fs-5 fw-bold">Yale University Scholarships USA-2025</p>
                             
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s2} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Fulbright Scholarships USA-2025</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s3} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Stanford University Scholarships-2025</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s4} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">The Gates Scholarship Program 2025 For High School Seniors</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="/">
+                            <Link to="/">
                                 <img src={s5} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Knight Hennessy Scholarship 2025-2026</p>
                     </div>
                     <div className="col blogImage">
-                            <a href="">
+                            <Link to="">
                                 <img src={s1} alt=""></img>
-                            </a>
+                            </Link>
                             <p className="text-center pt-3 fs-5 fw-bold">Simmons University Kotzen Scholarships 2025-2026</p>
                     </div>
                 </div>

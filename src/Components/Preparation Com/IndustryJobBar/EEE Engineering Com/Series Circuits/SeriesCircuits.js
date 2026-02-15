@@ -1,5 +1,6 @@
 import React from "react";
 import './SeriesCircuits.css';
+import { Link } from "react-router-dom";
 
 function SeriesCircuits () {
     return(
@@ -11,16 +12,16 @@ function SeriesCircuits () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 2</button>
-                            </a>
+                            </link>
                         </li>
                     </ul>
                 </div>
@@ -28,16 +29,16 @@ function SeriesCircuits () {
                                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 3</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 4</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -46,16 +47,16 @@ function SeriesCircuits () {
                                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 5</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 6</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -63,16 +64,16 @@ function SeriesCircuits () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 7</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 8</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -80,16 +81,16 @@ function SeriesCircuits () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 9</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 10</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -97,16 +98,16 @@ function SeriesCircuits () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 11</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Artificial Intelligence - Section 12</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

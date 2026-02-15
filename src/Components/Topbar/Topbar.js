@@ -4,6 +4,8 @@ import p1 from'../../Images/p1.png';
 import p2 from'../../Images/p2.png';
 import p3 from'../../Images/p3.png';
 
+import { Link } from "react-router-dom";
+
 const Topbar = () => {
     return (
         <div className="container-fluid">
@@ -20,27 +22,25 @@ const Topbar = () => {
                         </p>
                         <div className="row topbar1">
                             <div className="col">
-                                <a href="#">
+                                <Link to="#">
                                     <img src={p1} className="mx-auto d-block" style={{ width: "60px" }} alt="site icon"/>
-                                </a>
+                                </Link>
                                 <button type="button" className="btn btn-outline-primary"><h5>Class Wise Study</h5></button>
                                     
                                 
                             </div>
                             <div className="col">
-                                <a href="/">
+                                <Link to="/">
                                 <img src={p2} className="mx-auto d-block" style={{ width: "60px" }} alt="site icon"/>
                                 <button type="button" className="btn btn-outline-primary"><h5>Industry Job Preparation</h5></button>
-                                </a>
+                                </Link>
 
                             </div>
                             <div className="col">
-                                <a href="/">
+                                <Link to="/">
                                 <img src={p3} className="mx-auto d-block" style={{ width: "60px" }} alt="site icon"/>
                                 <button type="button" className="btn btn-outline-primary"><h5>Scholarships</h5></button>
-                                </a>
-                                
-                                
+                                </Link>
                             </div>
                         </div>
                     </div>

@@ -38,16 +38,16 @@ function Scholarship () {
                                     <Link to="/Popular-Scholarships/Erasmus-Mundus" className="subject-item">Erasmus Mundus Joint Master Degrees (EU)</Link>
                                 </li>
                                     <li>
-                                    <a href="/" className="subject-item">DAAD Scholarships (Germany)</a>
+                                    <Link to="/" className="subject-item">DAAD Scholarships (Germany)</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">MEXT Scholarships (Japan)</a>
+                                    <Link to="/" className="subject-item">MEXT Scholarships (Japan)</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">Vanier Canada Graduate Scholarships</a>
+                                    <Link to="/" className="subject-item">Vanier Canada Graduate Scholarships</Link>
                                 </li>
                                 <li className="list-unstyled categories subject-list">
-                                    <a href="/" className="subject-item">Australia Awards Scholarships</a>
+                                    <Link to="/" className="subject-item">Australia Awards Scholarships</Link>
                                 </li>
 
                                 {/* Extra items shown after click */}
@@ -55,13 +55,13 @@ function Scholarship () {
                                     {showMorePopular && (
                                     <>
                                         <li className="list-unstyled categories subject-list">
-                                            <a href="/" className="subject-item">Chevening Scholarships (UK)</a>
+                                            <Link to="/" className="subject-item">Chevening Scholarships (UK)</Link>
                                         </li>
                                         <li className="list-unstyled categories subject-list">
-                                            <a href="/" className="subject-item">Fulbright Scholarships (USA)</a>
+                                            <Link to="/" className="subject-item">Fulbright Scholarships (USA)</Link>
                                         </li>
                                         <li className="list-unstyled categories subject-list">
-                                            <a href="/" className="subject-item">Gates Cambridge Scholarships</a>
+                                            <Link to="/" className="subject-item">Gates Cambridge Scholarships</Link>
                                         </li>
                                 
                                     </>
@@ -83,16 +83,16 @@ function Scholarship () {
                                     <Link to="/Full-Funded-Scholarships/MAECI" className="subject-item">Italian Government MAECI Scholarship</Link>
                                 </li>
                                     <li>
-                                    <a href="/" className="subject-item">Knight-Hennessy Scholars Program</a>
+                                    <Link to="/" className="subject-item">Knight-Hennessy Scholars Program</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item"> Queen Elizabeth Commonwealth Scholarship</a>
+                                    <Link to="/" className="subject-item"> Queen Elizabeth Commonwealth Scholarship</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">Azerbaijan Government Scholarship</a>
+                                    <Link to="/" className="subject-item">Azerbaijan Government Scholarship</Link>
                                 </li>
                                 <li className="list-unstyled categories subject-list">
-                                    <a href="/" className="subject-item">MOFA Taiwan Fellowship</a>
+                                    <Link to="/" className="subject-item">MOFA Taiwan Fellowship</Link>
                                 </li>
 
                                 {/* Extra items shown after click */}
@@ -100,19 +100,19 @@ function Scholarship () {
                                     {showMoreFullFunded && (
                                     <>
                                         <li className="list-unstyled categories subject-list">
-                                            <a href="/" className="subject-item">Swedish Institute Scholarships for Global Professionals</a>
+                                            <Link to="/" className="subject-item">Swedish Institute Scholarships for Global Professionals</Link>
                                         </li>
 
                                         <li className="list-unstyled categories subject-list">
-                                            <a href="/" className="subject-item">Gates Cambridge Scholarships</a>
+                                            <Link to="/" className="subject-item">Gates Cambridge Scholarships</Link>
                                         </li>
 
                                         <li className="list-unstyled categories subject-list">
-                                             <a href="/" className="subject-item">Malaysian Government MTCP Scholarship</a>
+                                             <Link to="/" className="subject-item">Malaysian Government MTCP Scholarship</Link>
                                          </li>
                                  
                                         <li className="list-unstyled categories subject-list">
-                                            <a href="/" className="subject-item"> Kingdom of Saudi Arabia Fully Funded Scholarships</a>
+                                            <Link to="/" className="subject-item"> Kingdom of Saudi Arabia Fully Funded Scholarships</Link>
                                         </li>
                         
                                     </>
@@ -134,44 +134,44 @@ function Scholarship () {
                                     <Link to="/European-Scholarship/Scholarship-in-USA" className="subject-item">Scholarship in USA</Link>
                                 </li>
                                     <li>
-                                    <a href="/" className="subject-item">Scholarship in Canada</a>
+                                    <Link to="/" className="subject-item">Scholarship in Canada</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">Scholarship in UK</a>
+                                    <Link to="/" className="subject-item">Scholarship in UK</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">Scholarship in Sweden</a>
+                                    <Link to="/" className="subject-item">Scholarship in Sweden</Link>
                                 </li>
                                     <li className="list-unstyled categories subject-list">
-                                    <a href="/" className="subject-item">Scholarship in Australia</a>
+                                    <Link to="/" className="subject-item">Scholarship in Australia</Link>
                                 </li>
                                 {/* Extra items shown after click*/}
                                 <li>
                                     {showMoreEuropean && (
                                         <>
                                             <li>
-                                                <a href="/" className="subject-item">Scholarship in New-Zealand</a>
+                                                <Link to="/" className="subject-item">Scholarship in New-Zealand</Link>
                                             </li>
                                             <li>
-                                                <a href="/" className="subject-item">Scholarship in Japan</a>
+                                                <Link to="/" className="subject-item">Scholarship in Japan</Link>
                                             </li>
                                             <li>
-                                                <a href="/" className="subject-item">Scholarship in Saudi Arabia</a>
+                                                <Link to="/" className="subject-item">Scholarship in Saudi Arabia</Link>
                                             </li>
                                             <li className="list-unstyled categories subject-list">
-                                                <a href="/" className="subject-item">Scholarship in Hungary</a>
+                                                <Link to="/" className="subject-item">Scholarship in Hungary</Link>
                                             </li>
                                             <li className="list-unstyled categories subject-list">
-                                                <a href="/" className="subject-item">Scholarship in Germany</a>
+                                                <Link to="/" className="subject-item">Scholarship in Germany</Link>
                                             </li>
                                             <li className="list-unstyled categories subject-list">
-                                                <a href="/" className="subject-item">Scholarship in France</a>
+                                                <Link to="/" className="subject-item">Scholarship in France</Link>
                                             </li>
                                             <li className="list-unstyled categories subject-list">
-                                                <a href="/" className="subject-item">Scholarship in Switzerland</a>
+                                                <Link to="/" className="subject-item">Scholarship in Switzerland</Link>
                                             </li>
                                             <li className="list-unstyled categories subject-list">
-                                                <a href="/" className="subject-item">Scholarship in Poland</a>
+                                                <Link to="/" className="subject-item">Scholarship in Poland</Link>
                                             </li>
                                         </>
                                     )}
@@ -193,19 +193,19 @@ function Scholarship () {
                                     <Link to="/Others-Scholarships/Asian-Continent" className="subject-item">Asian Continent</Link>
                                 </li>
                                     <li>
-                                    <a href="/" className="subject-item">European Continent</a>
+                                    <Link to="/" className="subject-item">European Continent</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">North & South American Continent</a>
+                                    <Link to="/" className="subject-item">North & South American Continent</Link>
                                 </li>
                                 <li>
-                                    <a href="/" className="subject-item">Africa Continent</a>
+                                    <Link to="/" className="subject-item">Africa Continent</Link>
                                 </li>
                                     <li className="list-unstyled categories subject-list">
-                                    <a href="/" className="subject-item">Oceania Continent</a>
+                                    <Link to="/" className="subject-item">Oceania Continent</Link>
                                 </li>
                                 <li>
-                                    <a href="#" className=" list-unstyled categories btn btn-primary btn-xs mt-2 view">View All</a>
+                                    <Link to="#" className=" list-unstyled categories btn btn-primary btn-xs mt-2 view">View All</Link>
                                 </li>
                             </ul>
                         </div>

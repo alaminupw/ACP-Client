@@ -1,5 +1,6 @@
 
 import './EngineeringMechanics.css';
+import { Link } from "react-router-dom";
 
 function EngineeringMechanics () {
     return(
@@ -11,16 +12,16 @@ function EngineeringMechanics () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 1</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 2</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -28,16 +29,16 @@ function EngineeringMechanics () {
                                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 3</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 4</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -46,16 +47,16 @@ function EngineeringMechanics () {
                                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 5</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 6</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -63,16 +64,16 @@ function EngineeringMechanics () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 7</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="sub-list" href="/">
+                            <Link className="sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 8</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -80,16 +81,16 @@ function EngineeringMechanics () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 9</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 10</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -97,16 +98,16 @@ function EngineeringMechanics () {
                 <div className="col-2">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 11</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     <ul className="list-unstyled">
                         <li>
-                            <a className="Mechanical-sub-list" href="/">
+                            <Link className="Mechanical-sub-list" to="/">
                             <button type="button" class="btn btn-primary btn-lg">Engineering Mechanics - Section 12</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

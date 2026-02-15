@@ -21,45 +21,45 @@ const StudyinCSE = () => {
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -69,54 +69,54 @@ const StudyinCSE = () => {
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
@@ -126,54 +126,54 @@ const StudyinCSE = () => {
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
                 <div className="col-md-2 col-sm-6">
                     <ul className="list-unstyled">
                         <li>
-                            <a className="csesub-list" href="/">
+                            <Link className="csesub-list" to="/">
                                 <button type="button" class="btn btn-primary btn-lg">Basic Networking-Part-01</button>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

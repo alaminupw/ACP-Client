@@ -34,24 +34,24 @@ const ClassWise = () => {
                           </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Computer Hardware
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Operating Systems Concepts
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Disk Operating System (DOS)
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Artificial Intelligence
-                          </a>
+                          </Link>
                         </li>
                         <li>
                           <Link to ="/Study-in-CSE"
@@ -70,35 +70,35 @@ const ClassWise = () => {
                       </h2>
                       <ul className="list-unstyled categories subject-list">
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলাদেশ বিষয়াবলি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলা ভাষা ও সাহিত্য
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             English Language and Literature
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             গাণিতিক যুক্তি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             সাধারণ বিজ্ঞান
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>
@@ -111,35 +111,35 @@ const ClassWise = () => {
                       </h2>
                       <ul className="list-unstyled categories subject-list">
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলাদেশ বিষয়াবলি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলা ভাষা ও সাহিত্য
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             English Language and Literature
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             গাণিতিক যুক্তি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             সাধারণ বিজ্ঞান
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>
@@ -152,35 +152,35 @@ const ClassWise = () => {
                       </h2>
                       <ul className="list-unstyled categories subject-list">
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলাদেশ বিষয়াবলি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলা ভাষা ও সাহিত্য
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             English Language and Literature
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             গাণিতিক যুক্তি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             সাধারণ বিজ্ঞান
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>

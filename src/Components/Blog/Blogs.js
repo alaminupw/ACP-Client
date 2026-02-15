@@ -31,30 +31,30 @@ const Blogs = () => {
                           </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Data Science Blogs
-                          </a>
+                          </Link> 
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Hardware & System Blogs
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to ="/" className="subject-item">
                             Tools & Technology Blogs
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Others  Blogs 
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>
@@ -67,35 +67,35 @@ const Blogs = () => {
                       </h2>
                       <ul className="list-unstyled categories subject-list">
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলাদেশ বিষয়াবলি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলা ভাষা ও সাহিত্য
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             English Language and Literature
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             গাণিতিক যুক্তি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             সাধারণ বিজ্ঞান
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>
@@ -108,35 +108,35 @@ const Blogs = () => {
                       </h2>
                       <ul className="list-unstyled categories subject-list">
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Basic Network, architecture & protocols
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Routing and switching
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Server and data center management
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Network Security
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             Other Blogs
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>
@@ -149,35 +149,35 @@ const Blogs = () => {
                       </h2>
                       <ul className="list-unstyled categories subject-list">
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলাদেশ বিষয়াবলি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             বাংলা ভাষা ও সাহিত্য
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             English Language and Literature
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             গাণিতিক যুক্তি
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="/" className="subject-item">
+                          <Link to="/" className="subject-item">
                             সাধারণ বিজ্ঞান
-                          </a>
+                          </Link>
                         </li>
                         <li>
-                          <a href="#"
+                          <Link to="#"
                             className="btn btn-primary btn-xs mt-2 view">
                             View All{" "}   
-                          </a>
+                          </Link>
                         </li>
                       </ul>
                     </div>

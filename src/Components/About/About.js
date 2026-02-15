@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import './About.css';
 import a1 from '../../Images/a1.png';
+import { Link } from "react-router-dom";
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -42,7 +43,7 @@ function About () {
                         যা তাদের স্কিল ডেভেলপমেন্টে কার্যকর ভূমিকা রাখবে।
                     </p>
                     <div className="lightDeepBG-2 pt-4">
-                        <a className="btn btn-success text-white py-2" href="/">আরও জানতে ...</a>
+                        <Link className="btn btn-success text-white py-2" to ="/">আরও জানতে ...</Link>
                     </div>
                 </div>
             </div>
